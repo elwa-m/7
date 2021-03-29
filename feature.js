@@ -2,6 +2,6 @@ function feature(){
     console.log("coool")
 }
 
-function feature2(){
+function coolFeature2(){
     console.log("urra")
 }
