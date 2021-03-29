@@ -3,5 +3,6 @@ function feature(){
 }
 
 function coolFeature2(){
-    console.log("urra")
+   
+    console.log("urra!")
 }
