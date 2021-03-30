@@ -6,3 +6,7 @@ function coolFeature2(){
    
     console.log("urra!")
 }
+
+function newFeature(){
+    console.log("feature")
+}
