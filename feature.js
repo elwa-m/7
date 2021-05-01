@@ -10,3 +10,6 @@ function coolFeature2(){
 function newFeature(){
     console.log("feature")
 }
+function newPython(){
+    d={"Adam":'A'}
+}
