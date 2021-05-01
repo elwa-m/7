@@ -11,5 +11,5 @@ function newFeature(){
     console.log("feature")
 }
 function newPython(){
-    d={"Adam":'AB+'}
+    d={"Adam":'AB+', "Eva":'0'}
 }
